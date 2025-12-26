@@ -1,0 +1,6 @@
+[submodule "ObjectFiles/CS-Situational-Awareness-BOF"]
+	path = ObjectFiles/CS-Situational-Awareness-BOF
+	url = https://github.com/trustedsec/CS-Situational-Awareness-BOF.git
+[submodule "ObjectFiles/BOF-patchit"]
+	path = ObjectFiles/BOF-patchit
+	url = https://github.com/ScriptIdiot/BOF-patchit.git
