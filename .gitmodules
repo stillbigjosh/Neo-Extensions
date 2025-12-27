@@ -4,3 +4,6 @@
 [submodule "ObjectFiles/BOF-patchit"]
 	path = ObjectFiles/BOF-patchit
 	url = https://github.com/ScriptIdiot/BOF-patchit.git
+[submodule "ObjectFiles/ObjectFiles/CS-Remote-OPs-BOF"]
+	path = ObjectFiles/ObjectFiles/CS-Remote-OPs-BOF
+	url = https://github.com/trustedsec/CS-Remote-OPs-BOF.git
